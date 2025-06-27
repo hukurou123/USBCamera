@@ -13,6 +13,12 @@ USBカメラを表示するPythonアプリケーション
   |  PySide6  |  できれば最新  |
 
 ## インストールコマンド
+  requirements.txtを使う場合
+  ```
+  pip install -r requirements.txt
+  ```
+
+  直接入れる場合  
   ```
   pip install opencv-python PySide6
   ```
